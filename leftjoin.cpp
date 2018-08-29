@@ -8,7 +8,7 @@
 #include <algorithm>
 #include <map>
 #include <unordered_map>
-#include "intervaltree/IntervalTree.h"
+#include "IntervalTree.h"
 using namespace std;
 typedef IntervalTree<int, string> ITree;
 
